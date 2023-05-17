@@ -1,0 +1,17 @@
+.maindiv_style{
+  height: auto;
+  min-height: 100vh;
+  background-color: rgb(76, 167, 236);
+}
+.tododiv{
+  width: 350px;
+  height: 450px;
+  box-shadow: 2px 5px 10px gray;
+  border-radius: 20px;
+  background-color: #ffffff;
+  overflow: auto;
+}
+.Headtodo{
+  border-radius: 20px 20px 0 0;
+  margin: 2px;
+}
